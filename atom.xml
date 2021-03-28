@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwnasup.github.io</id>
     <title>iwnasup</title>
-    <updated>2021-03-28T06:30:33.802Z</updated>
+    <updated>2021-03-28T06:40:58.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iwnasup.github.io"/>
     <link rel="self" href="https://iwnasup.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://iwnasup.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, iwnasup</rights>
     <entry>
-        <title type="html"><![CDATA[dfc]]></title>
+        <title type="html"><![CDATA[中国医药报]]></title>
         <id>https://iwnasup.github.io/dfc/</id>
         <link href="https://iwnasup.github.io/dfc/">
         </link>

@@ -1525,3 +1525,7 @@ a.purple-link {
         border: 1px solid #495057;
       }
     
+      .main {
+        max-width: 1000px;
+      }
+    
